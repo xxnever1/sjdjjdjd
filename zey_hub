@@ -21,7 +21,7 @@ local Window = Rayfield:CreateWindow({
     },
     KeySystem = true,          -- Set this to true to use our key system
     KeySettings = {
-        Title = "Rizz Scriptz",
+        Title = "Zey Scriptz",
         Subtitle = "Key System",
         Note = "Join the discord (discord.gg/ygsryany7a)",
         FileName = "Rizz Hub",
