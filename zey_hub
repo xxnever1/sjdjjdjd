@@ -1735,7 +1735,7 @@ If Anything Not Right Happend After You Sign Just Relace The Pet Again
 })
 local Input = Tab5:CreateInput({
     Name = "Text To Use",
-    PlaceholderText = "RizzHub",
+    PlaceholderText = "Zeyhub",
     RemoveTextAfterFocusLost = false,
     Callback = function(Text)
         getgenv().newtext = Text
