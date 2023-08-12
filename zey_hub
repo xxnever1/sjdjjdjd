@@ -696,7 +696,7 @@ local Paragraph = Tab:CreateParagraph({
 
 You Can Change Multiple Pets
 Use The Grid Toggle To Update The Pets
-You Can Use Any Pet You Want Dm K4F#0001 Any Errors
+You Can Use Any Pet You Want Dm zey9#1330 Any Errors
 ]]
 })
 
@@ -862,7 +862,7 @@ local Paragraph2 = Tab2:CreateParagraph({
 
 You Can Change Multiple Pets
 Use The Grid Toggle To Update The Pets
-You Can Use Any Pet You Want Dm K4F#0001 Any Errors
+You Can Use Any Pet You Want Dm zey9#1330 Any Errors
 ]]
 })
 local fpet2
@@ -1110,7 +1110,7 @@ local Paragraph4 = Tab4:CreateParagraph({
 You Can Change Multiple Pets
 Unequip The Pet Before Replacing It
 Use The Grid Toggle To Update The Pets
-You Can Use Any Pet You Want Dm K4F#0001 Any Errors
+You Can Use Any Pet You Want Dm zey9#1330 Any Errors
 ]]
 })
 local fpet4
@@ -1413,7 +1413,7 @@ local Paragraph3 = Tab3:CreateParagraph({
 
 You Can Change Multiple Pets
 Use The Grid Toggle To Update The Pets
-You Can Use Any Pet You Want Dm K4F#0001 Any Errors
+You Can Use Any Pet You Want Dm zey9#1330 Any Errors
 ]]
 })
 local Input3 = Tab3:CreateInput({
@@ -1835,7 +1835,7 @@ Some Executors
 })
 local Input = Tab6:CreateInput({
     Name = "Alts Username",
-    PlaceholderText = "rizzhub69",
+    PlaceholderText = "zey9108",
     RemoveTextAfterFocusLost = false,
     Callback = function(Text)
         SUsername = Text
