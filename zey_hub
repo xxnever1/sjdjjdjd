@@ -7,7 +7,7 @@ local Rayfield = loadstring(game:HttpGet(
     'https://raw.githubusercontent.com/shlexware/Rayfield/219b39f85127e9c344becc0fa389e2888337637c/source'))() -- don't change this one please it may break your script
 local Window = Rayfield:CreateWindow({
     Name = "zey Scriptz /discord.gg/ygsryany7a",
-    LoadingTitle = "Zey Visiual...",
+    LoadingTitle = "Zey Visual...",
     LoadingSubtitle = "by zey9#1330",
     ConfigurationSaving = {
         Enabled = false,
